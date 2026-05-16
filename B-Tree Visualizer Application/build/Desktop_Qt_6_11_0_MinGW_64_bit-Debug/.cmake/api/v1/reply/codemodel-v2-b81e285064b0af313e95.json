@@ -1,0 +1,78 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "BTreeVisualizer",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "BTreeVisualizer::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-BTreeVisualizer-Debug-e948a97cea11f8608446.json",
+					"name" : "BTreeVisualizer",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "BTreeVisualizer_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-BTreeVisualizer_autogen-Debug-15568d80696b2e0b8d04.json",
+					"name" : "BTreeVisualizer_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "BTreeVisualizer_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-BTreeVisualizer_autogen_timestamp_deps-Debug-5f3f237d754344fc01c3.json",
+					"name" : "BTreeVisualizer_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/ALWAFER/Desktop/B/build/Desktop_Qt_6_11_0_MinGW_64_bit-Debug",
+		"source" : "C:/Users/ALWAFER/Desktop/B"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
