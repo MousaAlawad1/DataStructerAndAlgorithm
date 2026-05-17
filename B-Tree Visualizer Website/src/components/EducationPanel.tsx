@@ -34,8 +34,8 @@ const TelegramIcon = () => (
 const SOCIAL_LINKS = [
   {
     label: 'GitHub',
-    handle: '@MousaAl-awad',
-    href: 'https://github.com/MousaAl-awad',
+    handle: '@MousaAlawad1',
+    href: 'https://github.com/MousaAlawad1',
     icon: <GitHubIcon />,
     gradient: 'from-slate-800 to-slate-900',
     border: 'border-slate-700/60 hover:border-slate-500',
@@ -45,8 +45,8 @@ const SOCIAL_LINKS = [
   },
   {
     label: 'Instagram',
-    handle: '@mousa._.alawad',
-    href: 'https://instagram.com/mousa._.alawad',
+    handle: '@1mousa_alawad',
+    href: 'https://instagram.com/1mousa_alawad',
     icon: <InstagramIcon />,
     gradient: 'from-pink-950/70 to-purple-950/70',
     border: 'border-pink-800/40 hover:border-pink-500/70',
